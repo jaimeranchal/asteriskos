@@ -1,0 +1,6 @@
+title: $:/plugins/jaimeranchal/asteriskos/styles
+tags: [[$:/tags/Stylesheet]]
+
+\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline
+
+.some-class { rule: value; }

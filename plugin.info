@@ -1,0 +1,10 @@
+{
+	"title": "$:/plugins/jaimeranchal/asteriskos",
+	"description": "Quick lists with predefined, customizable popup options",
+	"author": "Jaime Ranchal",
+	"version": "0.0.1",
+	"core-version": ">=5.3.0",
+	"source": "https://github.com/jaimeranchal/asteriskos",
+	"list":"readme usage",
+	"plugin-type": "plugin"
+}

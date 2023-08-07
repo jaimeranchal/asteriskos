@@ -1,0 +1,9 @@
+title: $:/plugins/jaimeranchal/asteriskos/readme
+
+This plugin adds a couple of widgets to insert ''quick lists''. Each list has buttons with quick options to:
+
+* add items
+* edit current items
+* customize item selection options
+
+[[Source code|https://github.com/jaimeranchal/asteriskos]]
